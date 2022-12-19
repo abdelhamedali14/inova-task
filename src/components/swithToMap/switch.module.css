@@ -1,0 +1,11 @@
+.btn {
+    background-color: #5614cf;
+    padding: 1.2rem 2.5rem;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid transparent;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-size: 1.2rem;
+}

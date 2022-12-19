@@ -1,0 +1,17 @@
+
+
+.color{
+    color: #5614cf;
+}
+.sign_up{
+    color: #f2203d;
+
+}
+
+.shared_btn {
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(113deg, #f21d3c 28%, #f48b45 138%), linear-gradient(180deg, #020303, #020303);
+    text-transform: uppercase;
+    
+}

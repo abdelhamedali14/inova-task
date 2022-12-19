@@ -1,0 +1,29 @@
+/* pagination styles */
+
+.paginationBtns {
+    width: 100%;
+    margin: 1rem 0rem;
+    padding: 1rem 0rem;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.paginationBtns a {
+    padding: 10px;
+    text-decoration: none;
+    margin: 8px;
+    color: #2b2eff;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+/* .paginationBtns a:hover {
+    color: white;
+    background-color: #2b2eff;
+} */
+
+
+.paginationDisabled a {
+    color: grey;
+
+}

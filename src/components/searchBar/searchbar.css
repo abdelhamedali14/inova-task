@@ -1,0 +1,28 @@
+.btn-form {
+  text-transform: uppercase;
+  color: white;
+  cursor: pointer;
+  border-top-right-radius: 15px ;
+  border-bottom-right-radius: 15px ;
+  background: linear-gradient(113deg, #f21d3c 28%, #f48b45 138%), linear-gradient(180deg, #020303, #020303) !important;
+}
+.input_wrapper {
+  width: 30rem;
+  position: relative;
+}
+.input_field {
+  border-radius: 15px !important;
+}
+.find_filter_wrapper {
+  position: absolute;
+  border: 1px solid transparent;
+  border-top-right-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+  right: 0px;
+  width: auto;
+  height: 100%;
+}
+.filter {
+  color: #5614cf;
+  font-weight: 500;
+}

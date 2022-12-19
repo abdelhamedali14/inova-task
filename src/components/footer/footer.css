@@ -1,0 +1,10 @@
+.footer_wrapper {
+    background-color: #5614cf;
+    margin-top: 1.5rem ;
+    padding: 1rem 0rem;
+    margin: 0 auto !important;
+    width: 100%;
+}
+.footer_wrapper img{
+    width: 10%;
+}

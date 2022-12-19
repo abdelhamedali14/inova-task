@@ -1,0 +1,38 @@
+.card {
+    /* width: 16rem; */
+    height: 16rem;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 18px;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 16%);
+    position: relative;
+    cursor: pointer;
+}
+
+.hot_deals {
+    content: "Hot Deals";
+    width: 100%;
+    background-color: #62bd7a;
+    position: absolute;
+    bottom: -1rem;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    z-index: 1;
+    height: 3rem;
+    right: 0;
+    color: #fff;
+    text-align: center;
+    /* line-height:3rem; */
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: concon, sans-serif !important;
+    letter-spacing: 2.75px;
+}
+
+.card-img {
+    width: 40%;
+    height: 9rem;
+}
+.card-img img {
+    width: 100%;
+}
